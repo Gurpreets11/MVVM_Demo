@@ -20,7 +20,7 @@ A simple Android application demonstrating the **MVVM (Model-View-ViewModel)** a
 
 | Layer        | Technology                      |
 |--------------|----------------------------------|
-| Language     | Kotlin                           |
+| Language     | Java                           |
 | Architecture | MVVM                             |
 | Networking   | Retrofit, Gson                   |
 | Persistence  | Room Database                    |
