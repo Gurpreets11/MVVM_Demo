@@ -47,3 +47,6 @@ A simple Android application demonstrating the **MVVM (Model-View-ViewModel)** a
 git clone git@github.com:your-username/mvvm-demo-app.git
 cd mvvm-demo-app
 
+
+## License
+This project is licensed under the [MIT License](LICENSE).
